@@ -1,0 +1,17 @@
+
+body {background-color: #5d9b9b;}
+h1, h2, p, li{
+    font-family: Verdana, Bitstream Vera Sans, Deja Vu, Verdana, Geneva, sans-serif;
+    color: #fdfd96;
+    text-align:  justify;
+}
+
+th, td {
+    padding: 15px;
+    border: 0px;
+}
+
+table{
+    width:100%;
+    border: 0px;
+}
